@@ -1,7 +1,5 @@
 ## These functions are designed to calculate the inverse of a 
 ## matrix using caching to potentially reduce computational cost. 
-## To utilize, define a matrix (e.g., my_matrix) and run 
-## cacheSolve(makeCacheMatrix(my_matrix)).
 
 ## The makeCacheMatrix function creates a special matrix object that
 ## can cache its inverse.
